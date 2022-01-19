@@ -15,5 +15,5 @@ Hello world! 2 time
 Hello world! 3 time
 Hello world! 4 time
 
-Prof at OneCompiler 3xqsbr73q
+Prof at OneCompiler [3xqsbr73q](https://onecompiler.com/python/3xqsbr73q)
 ```
