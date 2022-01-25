@@ -33,6 +33,10 @@ Hasil modifikasi kode di atas adalah
 ```
 ```
 
+![](q2.PNG)
+
+Proof at OneCompiler [3xrcsqdys](https://onecompiler.com/python/3xrcsqdys)
+
 ## question 3
 Ganti nilai variabel NIM dengan data Anda, modifikasi kode yang diberikan di atas dengan `s += char2`, jalankan dan tampilkan hasilnya.
 
@@ -40,6 +44,9 @@ Ganti nilai variabel NIM dengan data Anda, modifikasi kode yang diberikan di ata
 Hasil modifikasi kode di atas adalah
 ```
 ```
+![](q3.PNG)
+
+Proof at OneCompiler [3xrct4f8z](https://onecompiler.com/python/3xrct4f8z)
 
 ## question 4
 Jelaskan dengan singkat hal yang dihasillkan oleh kode yang diberikan.
