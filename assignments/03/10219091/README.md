@@ -21,7 +21,6 @@ Ganti nilai variabel NIM dengan data Anda, jalankan kode yang diberikan, dan tam
 ### anwser 1
 Hasil kode di atas adalah
 
-
 ![](q1.PNG)
 
 Proof at OneCompiler [3xrcrh75b](https://onecompiler.com/python/3xrcrh75b)
