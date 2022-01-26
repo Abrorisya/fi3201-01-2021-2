@@ -53,6 +53,7 @@ Jelaskan dengan singkat hal yang dihasillkan oleh kode yang diberikan.
 
 ### answer 4
 Kode di atas berfungsi untuk
-+ kode pertama ``` import html ''' berfungsi untuk memangil  library html python sehingga command seperti ``python
-char1 = html.unescape('&#x25FB;') & char2 = html.unescape('&#x25FC;') '''
-+ ..
++ kode pertama ``` import html ``` berfungsi untuk memangil  library html python sehingga command seperti ```
+char1 = html.unescape('&#x25FB;') & char2 = html.unescape('&#x25FC;') ``` dapat digunakan. kedua kode tersebut mengubah variabel char1 dan char 2 yang berisi karakter ascii (&#x25FB & &#x25FC) menjadi ditampilkan sebagai karakter khusus
++ selanjutnya kode ``` NIM=10219091``` membuat variabel string yang berisi nim 
++ 
