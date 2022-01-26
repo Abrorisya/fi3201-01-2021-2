@@ -53,8 +53,6 @@ Jelaskan dengan singkat hal yang dihasillkan oleh kode yang diberikan.
 
 ### answer 4
 Kode di atas berfungsi untuk
-+ kode pertama ```python
-import html ''' berfungsi untuk memangil  library html python sehingga command seperti ``python
-char1 = html.unescape('&#x25FB;')
-char2 = html.unescape('&#x25FC;') '''
++ kode pertama ``` import html ''' berfungsi untuk memangil  library html python sehingga command seperti ``python
+char1 = html.unescape('&#x25FB;') & char2 = html.unescape('&#x25FC;') '''
 + ..
