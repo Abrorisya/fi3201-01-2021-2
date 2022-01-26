@@ -44,7 +44,7 @@ Ganti nilai variabel NIM dengan data Anda, modifikasi kode yang diberikan di ata
 Hasil modifikasi kode di atas adalah
 ```
 ```
-![](q3.PNG)
+![]()
 
 Proof at OneCompiler [3xrct4f8z](https://onecompiler.com/python/3xrct4f8z)
 
