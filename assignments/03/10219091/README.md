@@ -56,4 +56,8 @@ Kode di atas berfungsi untuk
 + kode pertama ``` import html ``` berfungsi untuk memangil  library html python sehingga command seperti ```
 char1 = html.unescape('&#x25FB;') & char2 = html.unescape('&#x25FC;') ``` dapat digunakan. kedua kode tersebut mengubah variabel char1 dan char 2 yang berisi karakter ascii (&#x25FB & &#x25FC) menjadi ditampilkan sebagai karakter khusus
 + selanjutnya kode ``` NIM=10219091``` membuat variabel string yang berisi nim 
-+ 
++ kemudian kode ```for x in NIM:``` melakukan pengulangan dengan variabel x untuk tiap nilai yang ada di matriks NIM
++ dalam pengulangan dibuat variabel n dengan nilai integer dari variable x dengan kode ```n = int(x, 10)``` dan juga variabel s yang akan di isi dengan karakter khusus
++ setelah variable n dan s di buat dilakukan pengulangan ```for i in range(n):
+    s += char``` untuk mengisi variabel s dengan karakter khusus sejumlah n
++ terakhir dilakukan comand print dengan ```print(n, ':', s, sep='')``` sebelum pengulangan x dimulai kembali
