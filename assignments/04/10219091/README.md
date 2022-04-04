@@ -82,10 +82,10 @@ Modifikasi program yang diberikan sehingga dapat menggambarkan gelombang yang me
 
 ### answer 2
 Potongan kode yang perlu disisipkan adalah
-```
-di karenakan fungsi gelombang pada umumnya memenuhi persamaan berikut !.[].(persamaan gelombang umum.PNG) maka kode yang perlu dimasukkan adalah !.[].(fungsi q 2.PNG) selain itu juga perlu menghapus tanda # didepan writegif serta anim.save(.gif)
 
-```
+di karenakan fungsi gelombang pada umumnya memenuhi persamaan berikut ![](persamaan gelombang umum.PNG) maka kode yang perlu dimasukkan adalah ![](fungsi q 2.PNG) selain itu juga perlu menghapus tanda # didepan writegif serta anim.save(.gif)
+
+
 dan hasil berkas gifnya adalah \
 ![gif file from simulation wave to right](Q2.gif)
 
@@ -95,9 +95,9 @@ Modifikasi program yang diberikan sehingga dapat menggambarkan gelombang yang me
 
 ### answer 3
 Potongan kode yang perlu disisipkan adalah
-```
+
 Hal yang sama dilakukan untuk pertanyaan 3 namun persamaan dari fungsi gelombang sedikit berubah karena arah nya menuju x negatif sehingga perlu dimasukkan kode berikut ![](fungsi q 3.PNG)
-```
+
 dan hasil berkas gifnya adalah \
 ![gif file from simulation wave to left](Q3.gif)
 
@@ -107,8 +107,8 @@ Modifikasi program yang diberikan sehingga dapat menggambarkan gelombang stasion
 
 ### answer 4
 Potongan kode yang perlu disisipkan adalah
-```
+
 persamaan umum dari gelombang diam adalah ![](persamaan gelombang diam.PNG) dan dengan mengubah nilai k dan omega perlu dimasukkan kode berikut ![](fungsi q 4.PNG)
-```
+
 dan hasil berkas gifnya adalah \
 ![gif file from simulation wave stationary](Q4.gif)
