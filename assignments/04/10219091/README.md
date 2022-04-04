@@ -83,7 +83,7 @@ Modifikasi program yang diberikan sehingga dapat menggambarkan gelombang yang me
 ### answer 2
 Potongan kode yang perlu disisipkan adalah
 
-di karenakan fungsi gelombang pada umumnya memenuhi persamaan berikut ![](persamaan gelombang umum.PNG) maka kode yang perlu dimasukkan adalah ![](fungsi q 2.PNG) selain itu juga perlu menghapus tanda # didepan writegif serta anim.save(.gif)
+di karenakan fungsi gelombang pada umumnya memenuhi persamaan berikut ![persgelombang](persamaan gelombang umum.PNG) maka kode yang perlu dimasukkan adalah ![](fungsi q 2.PNG) selain itu juga perlu menghapus tanda # didepan writegif serta anim.save(.gif)
 
 
 dan hasil berkas gifnya adalah \
