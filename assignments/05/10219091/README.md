@@ -5,4 +5,4 @@
 4. Unggah ke GitHub Anda dan berikan link pada berkas ini pada bagian jawaban.
 
 ## answer
-Tautan ke berkas Notebook Python saya adalah [work_of_fiction_10219091.ipynb](http://localhost:8888/notebooks/work_of_fiction_10219091.ipynb).
+Tautan ke berkas Notebook Python saya adalah [work_of_fiction_10219091.ipynb](https://github.com/Abrorisya/fi3201-01-2021-2/blob/main/assignments/05/10219091/work_of_fiction_10219091.ipynb).
